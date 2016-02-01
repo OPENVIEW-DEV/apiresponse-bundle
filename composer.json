@@ -1,0 +1,21 @@
+{
+    "name": "openview/apiresponse-bundle",
+    "type": "symfony-bundle",
+    "title": "ApiResponseBundle",
+    "version": "1.0.0",
+    "author": {
+        "name": "Openview",
+        "url": "http://www.openview.it"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/OPENVIEW-DEV/apiresponse-bundle.git"
+    },        
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-0": { "Openview\\ApiResponseBundle": "" }
+    },
+    "target-dir": "Openview/ApiResponseBundle"
+}
